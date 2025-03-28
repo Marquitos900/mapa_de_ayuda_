@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+#map {
+    height: 500px;
+    width: 100%;
+    margin: 20px 0;
+}
+button {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    border: none;
+}
+button:hover {
+    background-color: darkblue;
+}
+#message {
+    color: red;
+    margin-top: 10px;
+}
